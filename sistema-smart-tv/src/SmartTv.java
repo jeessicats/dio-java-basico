@@ -1,10 +1,11 @@
 public class SmartTv {
-    boolean ligada = false;
-    int canal = 1;
-    int volume = 25;
+
+    boolean ligada = false; /*Atributo a nível de classe */
+    int canal = 1; /*Atributo a nível de classe */
+    int volume = 25; /*Atributo a nível de classe */
 
     public void mudarCanal(int novoCanal){
-        canal = novoCanal;
+        canal = novoCanal; /* novoCanal pertence ao método mudarCanal */
     }
 
     public void aumentarCanal(){
