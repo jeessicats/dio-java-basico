@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="conta-banco/src"/>
+	<classpathentry kind="src" path="controle-fluxo/src"/>
+	<classpathentry kind="src" path="debugging-java/src"/>
+	<classpathentry kind="src" path="java-terminal/src"/>
+	<classpathentry kind="src" path="meu-primeiro-projeto-java/src"/>
+	<classpathentry kind="src" path="sistema-smart-tv/src"/>
+	<classpathentry kind="output" path="conta-banco/bin"/>
+</classpath>
