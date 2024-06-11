@@ -1,6 +1,6 @@
 # iPhone Component UML Diagram
 
-![Diagrama UML do Componente iPhone](https://www.mermaidchart.com/raw/4afc5269-9a93-45e2-9524-52cd2a5c9cd7?theme=light&version=v0.1&format=svg)
+![Diagrama UML do Componente iPhone](docs/diagrama_uml_iphone.png)
 
 ## Funcionalidades
 
